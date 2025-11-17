@@ -33,7 +33,7 @@ Man kann mit Münzen interagieren, indem man mit denen kollidiert. Mit der Inter
 - [8] Game Developers Conference, Math for Game Programmers: Building a Better Jump, (12. Dezember 2016). Zugegriffen: 1. August 2025. [Online Video]. Verfügbar unter: https://www.youtube.com/watch?v=hG9SzQxaCm8
 
 ## Assets:
-[1] R. Tuytel, „Snow 02 Texture • Poly Haven“, Poly Haven. Zugegriffen: 8. September 2025. [Online]. Verfügbar unter: https://polyhaven.com/a/snow_02
-[2] R. Tuytel, „Rocks Ground 06 Texture • Poly Haven“, Poly Haven. Zugegriffen: 8. September 2025. [Online]. Verfügbar unter: https://polyhaven.com/a/rocks_ground_06
-[3] Y. Poizd, „Coin“. 26. Juli 2025. Zugegriffen: 29. August 2025. [Online]. Verfügbar unter: https://sketchfab.com/models/aa4e0a5b43444ff8895b36588cba0cf5/embed?autostart=1
-[4] R. Tuytel, „Aerial Rocks 02 Texture • Poly Haven“, Poly Haven. Zugegriffen: 26. August 2025. [Online]. Verfügbar unter: https://polyhaven.com/a/aerial_rocks_02
+- [1] R. Tuytel, „Snow 02 Texture • Poly Haven“, Poly Haven. Zugegriffen: 8. September 2025. [Online]. Verfügbar unter: https://polyhaven.com/a/snow_02
+- [2] R. Tuytel, „Rocks Ground 06 Texture • Poly Haven“, Poly Haven. Zugegriffen: 8. September 2025. [Online]. Verfügbar unter: https://polyhaven.com/a/rocks_ground_06
+- [3] Y. Poizd, „Coin“. 26. Juli 2025. Zugegriffen: 29. August 2025. [Online]. Verfügbar unter: https://sketchfab.com/models/aa4e0a5b43444ff8895b36588cba0cf5/embed?autostart=1
+- [4] R. Tuytel, „Aerial Rocks 02 Texture • Poly Haven“, Poly Haven. Zugegriffen: 26. August 2025. [Online]. Verfügbar unter: https://polyhaven.com/a/aerial_rocks_02
